@@ -2,7 +2,7 @@
 
 A smart finance management app tailored for university students, featuring personalized AI financial guidance, real-time expense tracking, budgeting tools, and smart spending suggestions.
 
----
+
 
 ## The idea behind the App
 
@@ -20,19 +20,19 @@ With the help of a Python-powered AI backend agent, UniFinance offers:
 
 Every feature is designed to make personal finance simple, understandable, and achievable for students who are just starting their financial journey.
 
----
+
 
 ## Table of Contents
 - [Showcase](#showcase)
 - [Technologies Used](#technologies-used)
 - [License](#license)
-- [Contact](#contact)
+- [Team](#team)
 
----
+
 
 ## Showcase
-<img src="mockup-app" alt="Dashboard Mockup" style="border-radius: 15px;">
----
+<img src="mockup-app.jpg" alt="Dashboard Mockup" style="border-radius: 15px;">
+
 
 ## Technologies Used
 
@@ -48,14 +48,14 @@ Every feature is designed to make personal finance simple, understandable, and a
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma logo" />
 </div>
 
----
 
-- **Framework**: [Flutter](https://flutter.dev/) – For building a fast, beautiful, and cross-platform mobile app.
+
+- **Framework**: [Flutter](https://flutter.dev/) – For for the Front-End.
 - **Backend Services**: [Firebase](https://firebase.google.com/) – Authentication, Firestore database, Cloud Storage.
-- **AI Backend**: [Python Flask Server + OpenAI](https://platform.openai.com/) – For personalized AI financial analysis and bill scanning.
-- **Design Tool**: [Figma](https://www.figma.com/) – For designing a modern, minimal, and intuitive UI.
+- **AI Backend**: [Python Flask Server + OpenAI](https://platform.openai.com/) – For the AI Agent.
+- **Design Tool**: [Figma](https://www.figma.com/) – For designing the modern, minimal, and intuitive UI.
 
----
+
 
 ## License
 
@@ -63,15 +63,11 @@ This project is licensed under the MIT License.
 You are free to use, modify, and distribute this code, provided that you include the original license.  
 You can view the full text of the MIT License [here](https://opensource.org/licenses/MIT).
 
----
 
-## Contact
+## Team
 
-<div align="left">
-  <a href="https://www.instagram.com/jakov_spirovski/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/jakov-spirovski-9368a8334/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-</div>
+This project was proudly built by:
+- [Jakov Spirovski](https://www.instagram.com/jakov_spirovski/)  
+- [Darko Trajanov](https://www.instagram.com/trajanovdarko/)  
+- [Nikita Jakimovski](https://www.instagram.com/njakimovski4/)  
+- [Bojan Eftimoski](https://www.instagram.com/bojan_eftimoski/)
