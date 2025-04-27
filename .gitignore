@@ -1,0 +1,93 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+*.lock
+
+# IntelliJ / other IDE
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Flutter / Dart / Pub
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+analysis_options.yaml
+devtools_options.yaml
+
+# Android
+android/.gradle/
+android/app/key.properties
+android/local.properties
+android/app/debug
+android/app/profile
+android/app/release
+*.keystore
+
+# iOS / macOS
+ios/.symlinks/
+ios/Flutter/
+ios/Flutter/.last_build_id
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/GeneratedPluginRegistrant.*
+ios/build/
+ios/Pods/
+ios/Podfile.lock
+ios/.generated/
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/build/
+xcuserdata/
+*.xcworkspace
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+ios/Runner.xcodeproj/project.pbxproj
+ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+
+# Firebase & Google services
+google-services.json
+GoogleService-Info.plist
+firebase.json
+.firebaserc
+.firebase/
+firebase-debug.log
+
+
+# Environment / Secrets
+.env
+*.env.*
+
+# Node (if using Firebase Functions)
+node_modules/
+
+# Symbolication / Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Logs & temporary files
+*.tmp
+*.swp
